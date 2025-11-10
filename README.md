@@ -12,7 +12,7 @@ Run the `build` task (`gradlew build`). The output archive is `fabric-paper-load
 1. Download or copy the loader jar to the base directory of the server (the one with `paper.jar` or `paperclip.jar`).
 2. Modify startup scripts to launch the loader instead of paperclip.
 3. Put mods into `mods/`. 
-
+:)
 ## Development 
 
 There is no toolchain. The best option currently is to just use paperweight. 
